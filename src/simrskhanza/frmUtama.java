@@ -10,6 +10,8 @@
   dak pernah rela karya kami dibajak tanpa ijin.
  */
 
+ //dev init
+
 package simrskhanza;
 
 import rekammedis.RMRiwayatPerawatan;
